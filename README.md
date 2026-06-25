@@ -1,5 +1,6 @@
 # Capstone_3
 ## EmporiUm Sales Analysis Capstone Project 3
+### East Reagion -- New York and Connecticut
 
 This repository contains a Power BI project analyzing sales data for EmporiUm, a virtual student bookstore that combines in-store and online sales. The report explores sales trends, category performance, state level sales distribution, and top selling books to provide business insights for regional managers. 
 It includes: 

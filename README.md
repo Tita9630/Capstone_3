@@ -7,3 +7,5 @@ It includes:
 - A column chart showing sales performance by category 
 - A pie chart showing relative sales for each state in the region
 - A list of top-selling books, including author names, for East region (general audience, excluding textbooks)
+
+Video link: https://tinyurl.com/Zergaw-10-minute-video
